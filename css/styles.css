@@ -1,0 +1,29 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+.hiddenText {
+  display: none;
+}
+
+#replicant {
+  color: red;
+}
+
+#bladeRunner {
+  color: red;
+}
+
+#retirement {
+  color: red;
+}
+
+/*@font-face {
+    font-family: myFirstFont;
+    src: url(font/BR.TTF);
+}
+
+div {
+    font-family: myFirstFont;
+}*/
